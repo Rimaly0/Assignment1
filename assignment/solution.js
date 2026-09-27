@@ -1,4 +1,4 @@
-const heroName = "Omar The Warrior";
+const heroName = "Omar the Warrior";
 const studentID = 16007728;
 const power = studentID*4;
 const warcry = "By Siwa oasis, the Chimera kneels!";
